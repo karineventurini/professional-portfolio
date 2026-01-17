@@ -16,6 +16,7 @@ Experienced in transforming raw data into meaningful information through reprodu
 ## Selected Projects
 ### EU Procurement Analytics (2018–2023)
 End-to-end data analytics project based on EU public procurement award data published on the Tenders Electronic Daily (TED) platform. The analysis focuses on contract volumes, supplier concentration, competitive dynamics, and temporal trends, using a structured analytical workflow and dimensional data modeling.
+Repository: https://github.com/karineventurini/eu-procurement-analytics
 
 ### EU Manufacturing Performance Analysis (2018–2023)
 Analytical project based on Eurostat National Accounts data, focused on comparing manufacturing value added and growth dynamics across EU countries. The project emphasizes methodological rigor, data comparability, and executive-level visualization of economic performance indicators.
